@@ -1477,5 +1477,9 @@ export const OTHER_KINGDOMS = [
     {
         app: 'https://tender-hawking-e426f4.netlify.com',
         ruler: 'mcmonkeys1.id.blockstack'
+    },
+   {
+       app: 'https://quizzical-cray-d19fac.netlify.com',
+       ruler: 'pratapmridha.id.blockstack'
     }
  ]
